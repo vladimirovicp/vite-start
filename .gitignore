@@ -1,0 +1,24 @@
+# Logs
+vite-project/logs
+*.log
+vite-project/npm-debug.log*
+vite-project/yarn-debug.log*
+vite-project/yarn-error.log*
+vite-project/pnpm-debug.log*
+vite-project/lerna-debug.log*
+
+vite-project/node_modules
+vite-project/dist
+vite-project/dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
